@@ -6,3 +6,4 @@ dependencies = [
 
 [tool.setuptools]
 packages = { find = {} }
+include-package-data = true
