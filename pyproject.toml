@@ -1,0 +1,8 @@
+[project]
+name = "insightface"
+version = "0.0.1"
+dependencies = [
+]
+
+[tool.setuptools]
+packages = { find = {} }
